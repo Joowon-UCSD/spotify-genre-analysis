@@ -3,8 +3,6 @@ layout: default
 title: What Makes a Genre? Spotify Audio Features
 ---
 
-# What Makes a Genre? Spotify Audio Features
-
 **by Joowon Jang** · a final project for DSC 80 at UC San Diego
 
 ---
